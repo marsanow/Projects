@@ -160,7 +160,7 @@ iron(
 )
 ```
 
-![](Titanic_RMarkdown_files/figure-html/Waffle chart Female vs Male-1.png)<!-- -->
+![](Titanic_RMarkdown_files/figure-html/Waffle chart Female vs Male-1.png?raw=true)<!-- -->
 
 The top chart illustrates the proportion of all passengers on the Titanic grouped by Sex. The bottom chart shows the proportion of those who survived also grouped by Sex. We can clearly see that women had an advantage over men, even though there were more male passengers. Let's now include children.
 
